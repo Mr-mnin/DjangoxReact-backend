@@ -1,0 +1,20 @@
+# Python / Django dependencies
+Django==6.0.6
+djangorestframework==3.14.0
+django-cors-headers==4.7.0
+
+# Install backend packages:
+# pip install -r requirements.txt
+# python-dotenv
+
+# Frontend / React dependencies (run from the frontend/ folder):
+# npm install formik --save
+# npm i material-react-table @mui/material @mui/x-date-pickers @mui/icons-material @emotion/react @emotion/styled
+#npm install yup --save
+# npm install
+# npm install axios
+# The app uses these packages from package.json:
+# @emotion/react @emotion/styled @mdi/js @mdi/react @mui/icons-material @mui/material
+# react react-dom react-router react-router-dom
+# @babel/core @rolldown/plugin-babel @types/react @types/react-dom @vitejs/plugin-react
+# babel-plugin-react-compiler oxlint vite
